@@ -1,0 +1,19 @@
+.satu, .dua, .tiga{
+  background-color: powderblue;
+  overflow: scroll;
+  width: 20%;
+  height: 100px;
+  padding: 5px;
+}
+
+.satu{
+  border: dotted red 10px;
+}
+
+.dua{
+  border: solid green 5px;
+}
+
+.tiga{
+  border: dashed blue 15px;
+}
